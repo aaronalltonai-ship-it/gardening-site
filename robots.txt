@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gardening-site-seven.vercel.app/sitemap.xml
